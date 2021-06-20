@@ -12,10 +12,13 @@ The module is only compatible with WiseCP systems that have only English and/or 
 <b>1 - </b>Download on your server the folder named <code>VirtualizorReseller</code>.
 <br />
 <br />
-<b>2 - </b>Place the folder in the <code>coremio/modules/Servers/</code> path on your WiseCP system.
+<b>2 - </b>Unzip the folder.
 <br />
 <br />
-<b>3 - </b>Add the <code>777</code> permission recursively to the folder.
+<b>3 - </b>Place the <code>VirtualizorReseller</code> folder in the <code>coremio/modules/Servers/</code> path on your WiseCP system.
+<br />
+<br />
+<b>4 - </b>Add the <code>777</code> permission recursively to the folder.
 <br />
 <br />
 <h2>Configuration</h2>
@@ -117,4 +120,4 @@ In the first field of the list, enter the name of the operating system (Example:
 <br />
 <br />
 <br />
-<b>For any questions, bug reports, suggestions... do not hesitate to contact us by email at <code>contact@netheberg.fr</code>.</b>
+<b>For any questions, bug reports, suggestions... do not hesitate to contact us by email at <code>developer@netheberg.fr</code>.</b>

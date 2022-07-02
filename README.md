@@ -1,6 +1,6 @@
-<h1>VirtualizorReseller</h1>
+<h1>VirtualizorCloud</h1>
 <h2>Presentation</h2>
-VirtualizorReseller is a WiseCP module that allows you to use a VPS reseller for your hosting provider.
+VirtualizorCloud is a WiseCP module that allows you to use a VPS reseller for your hosting provider.
 <br />
 <br />
 <font color="orange"><b>Caution!</b> This module is not compatible with the Virtualizor administrator panel, only with the reseller panel.
@@ -9,13 +9,13 @@ The module is only compatible with WiseCP systems that have only English and/or 
 <br />
 <br />
 <h2>Installation</h2>
-<b>1 - </b>Download on your server the folder named <code>VirtualizorReseller</code>.
+<b>1 - </b>Download on your server the folder named <code>VirtualizorCloud</code>.
 <br />
 <br />
 <b>2 - </b>Unzip the folder.
 <br />
 <br />
-<b>3 - </b>Place the <code>VirtualizorReseller</code> folder in the <code>coremio/modules/Servers/</code> path on your WiseCP system.
+<b>3 - </b>Place the <code>VirtualizorCloud</code> folder in the <code>coremio/modules/Servers/</code> path on your WiseCP system.
 <br />
 <br />
 <b>4 - </b>Add the <code>777</code> permission recursively to the folder.
@@ -29,7 +29,7 @@ The module is only compatible with WiseCP systems that have only English and/or 
 <b>2 - </b>Click on the button to add a new server.
 <br />
 <br />
-<b>3 - </b>Select the VirtualizorReseller module.
+<b>3 - </b>Select the VirtualizorCloud module.
 <br />
 <br />
 <b>4 - </b>In the field for the username, enter your API key. And in the field for the password, enter your API pass. Then enter the other information requested in the other fields.

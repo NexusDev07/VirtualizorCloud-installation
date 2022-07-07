@@ -22,6 +22,14 @@ The module is only compatible with WiseCP systems that have only English and/or 
 <br />
 <br />
 <h2>Configuration</h2>
+<h4>Activate module:</h4>
+<b>1 - </b>Go to the module setup page. (Services/VirtualizorCloud Configuration)
+<br />
+<br />
+<b>2 - </b>Enter your license.
+<br />
+<br />
+<b>3 - </b>Press the "Update" button.
 <h4>Add a new server:</h4>
 <b>1 - </b>Go to the server setup page.
 <br />

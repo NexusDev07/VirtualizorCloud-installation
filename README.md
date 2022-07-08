@@ -29,7 +29,7 @@ The module is only compatible with WiseCP systems that have only English and/or 
 <b>2 - </b>Enter your license.
 <br />
 <br />
-<b>3 - </b>Press the "Update" button.
+<b>3 - </b>Click on the "Update" button.
 <h4>Add a new server:</h4>
 <b>1 - </b>Go to the server setup page.
 <br />
